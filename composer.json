@@ -1,0 +1,14 @@
+{
+    "name": "win-design/routing",
+    "description": "Routing - flexible and fast route for PHP, Enables you to build RESTful web applications quickly and easily.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anass Laksyby",
+            "email": "hello@anaslaksyby.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
